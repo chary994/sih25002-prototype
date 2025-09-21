@@ -1,0 +1,18 @@
+Slide 1: Title
+- Smart Tourist Safety — Team <Your Team>
+- SIH 2025 Problem 25002
+
+Slide 2: Problem
+- Tourists face accidents, theft, getting lost — need real-time safety
+
+Slide 3: Solution overview
+- Prototype: registration (DID) + map + SOS + simulated fall detection
+
+Slide 4: Demo screenshots
+- Registration (DID), Map + SOS, Fall incident
+
+Slide 5: Achievements in 6 days
+- Working full-stack prototype + hosting plan + roadmap
+
+Slide 6: Why unique
+- Combines AI, Geo-fencing, Blockchain-based DID for trust & faster response
