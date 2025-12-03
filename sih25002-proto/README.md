@@ -1,4 +1,4 @@
-# Smart Tourist Safety — Prototype (SIH 25002)
+# Smart Tourist Safety 
 
 ## What is included
 - backend/ (Node.js + Express + SQLite + Socket.IO)
